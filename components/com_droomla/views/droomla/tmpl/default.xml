@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Drupal Frontpage">
+		<message>
+			<!--<![CDATA[DROOMLA DEFAULT LAYOUT DESCRIPTION]]>-->
+		</message>
+	</layout>
+	<state>
+		<name>Drupal Frontpage</name>
+		<description>Drupal Frontpage Layout</description>
+        <url>
+
+        </url>
+		<params>
+
+		</params>
+		<advanced>
+
+		</advanced>
+	</state>
+</metadata>

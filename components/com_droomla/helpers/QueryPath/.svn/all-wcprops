@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath
+END
+COPYING-LGPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/COPYING-LGPL.txt
+END
+QueryPathExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/QueryPathExtension.php
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/INSTALL
+END
+QueryPath.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/QueryPath.php
+END
+LGPL-2.1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/LGPL-2.1.txt
+END
+CssParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/CssParser.php
+END
+COPYING-MIT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/COPYING-MIT.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/README
+END
+CssEventHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/CssEventHandler.php
+END

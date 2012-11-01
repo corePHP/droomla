@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="component" version="1.5.0" method="upgrade">
+    
+	<name>Droomla</name>
+    <author>Adam Stephen Docherty</author>
+    <creationDate>13/10/2010</creationDate>
+    <license>GNU/GPL</license>
+    <version>1.0.12 ( Codename 42 )</version>
+    <description>Joomla Drupal Integration</description>
+    
+	<installfile>install.droomla.php</installfile>
+    <uninstallfile>uninstall.droomla.php</uninstallfile>	
+	<languages folder="language/en-GB">
+        <language tag="en-GB">en-GB.com_droomla.ini</language>
+    </languages>
+	<files>
+		<folder>modules</folder>
+		<folder>plugins</folder>
+	</files>
+    <files folder="components/com_droomla">
+        <filename>controller.php</filename>
+        <filename>index.html</filename>
+        <filename>router.php</filename>
+        <filename>droomla.php</filename>	
+        <folder>models</folder>
+        <folder>views</folder>
+		<folder>helpers</folder>
+		<folder>elements</folder>
+		<folder>drupal</folder>
+		<folder>overrides</folder>
+    </files>
+	
+    <administration>				
+		<languages folder="administrator/language/en-GB">
+			<language tag="en-GB">en-GB.com_droomla.menu.ini</language>
+			<language tag="en-GB">en-GB.com_droomla.ini</language>
+		</languages>
+		<menu task="default" img="components/com_droomla/images/droomla_menu.png">Droomla</menu>
+		<submenu>
+			<menu view="dashboard" layout="default">Dashboard</menu>
+		</submenu>		
+		<files folder="administrator/components/com_droomla">
+			<filename>config.xml</filename>
+			<filename>controller.php</filename>
+			<filename>index.html</filename>        
+			<filename>droomla.php</filename>
+			<folder>views</folder>
+			<folder>models</folder>
+			<folder>tables</folder>
+			<folder>images</folder>
+		</files>	
+    </administration>
+</install>

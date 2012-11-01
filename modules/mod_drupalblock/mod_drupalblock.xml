@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0"  method="upgrade">
+    <name>Drupal Block</name>
+    <author>Adam Stephen Docherty</author>
+    <version>1.0</version>
+    <description>To display Drupal Blocks inside Joomla!</description>
+	<params addPath="/components/com_droomla/elements">
+	<param name="itemid" type="menuitemlist" size="30" default="" label="Choose Menu Item" description="Choose Menu Item" />
+		<param name="block" type="blocklist" size="30" default="" label="Choose Block" description="Drupal Block" />
+		
+    </params>
+	<params group="advanced">
+	<param name="tag_id" type="text" default="" label="Menu Tag ID" description="PARAMMENUTAGID" />
+		<param name="class_sfx" type="text" default="" label="Menu Class Suffix" description="PARAMMENUCLASSSUFFIX" />
+		<param name="moduleclass_sfx" type="text" default="_menu" label="Module Class Suffix" description="PARAMMODULECLASSSUFFIX" />
+		<param name="cache" type="list" default="1" label="Caching" description="Select whether to cache the content of this module">
+			<option value="1">Use global</option>
+			<option value="0">No caching</option>
+		</param>
+		<param name="cache_time" type="text" default="900" label="Cache Time" description="The time before the module is recached" />
+	</params>
+    <files>
+        <filename>mod_drupalblock.xml</filename>
+        <filename module="mod_drupalblock">mod_drupalblock.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+    </files>
+</install>

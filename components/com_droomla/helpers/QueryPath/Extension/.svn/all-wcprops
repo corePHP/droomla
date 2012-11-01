@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/Extension
+END
+QPList.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/Extension/QPList.php
+END
+QPTPL.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/Extension/QPTPL.php
+END
+QPXML.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/Extension/QPXML.php
+END
+QPDB.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/Extension/QPDB.php
+END
+QPXSL.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/kago-commerce/!svn/ver/37/trunk/administrator/components/com_kago/helpers/QueryPath/Extension/QPXSL.php
+END

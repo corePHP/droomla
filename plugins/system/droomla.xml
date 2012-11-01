@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="system" method="upgrade">
+	
+	<name>System - Droomla</name>
+	<author>Adam Stephen Docherty</author>
+	<creationDate>October 2010</creationDate>
+	<copyright>Copyright (C) 2010 Adam Stephen Docherty. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>adam.docherty@gmail.com</authorEmail>
+	<authorUrl>www.droomla.com</authorUrl>
+	<version>1.0.0</version>
+	<description>System = Droomla</description>
+	
+	<files>
+		<filename plugin="droomla">droomla.php</filename>
+		<folder>droomla</folder>
+	</files>
+	
+	<languages>
+			<language tag="en-GB">droomla/en-GB.plg_system_droomla.ini</language>
+	</languages>
+						
+	<params group="module" label="" >
+									
+	</params>
+	
+</install>
